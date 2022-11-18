@@ -1,0 +1,372 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+
+
+		<head>
+			<!-- Required meta tags -->
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+			<title>Index page</title>
+			<!-- Template CSS -->
+			<link rel="stylesheet" href="assets/css/style-starter.css">
+			<!-- Template CSS -->
+			<link href="//fonts.googleapis.com/css?family=Muli:300,300i,400,500,600,700,800,900&display=swap" rel="stylesheet">
+			<link href="//fonts.googleapis.com/css?family=Roboto:300,300i,400,500,700,900&display=swap" rel="stylesheet">
+			<!-- Template CSS -->
+		  
+		  </head>
+		  <body>
+		  
+		  <!--/top-header-content-->
+		  <section class="w3l-top-header-content">
+			  <div class="hny-top-menu">
+				  <div class="top-hd">
+					  <div class="container-fluid">
+						  <div class="row">
+							  <ul class="social-top col-md-7">
+								  <li class="log-link mr-3"><a class="sign-in"  href="#"><span class="fa fa-user"></span> Sign In</a></li>
+								  <li><a href="#"><span class="fa fa-facebook"></span></a></li>
+								  <li><a href="#"><span class="fa fa-instagram"></span></a> </li>
+								  <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+								  <li>
+									  <a href="#">
+										  <span class="fa fa-linkedin"></span>
+									  </a>
+								  </li>
+							  </ul>
+							  <ul class="accounts col-md-5">
+								  <li class="top_li"><span class="fa fa-mobile"></span><a href="Mob:+91 9986209984">+91 9986209984</a>
+								  </li>
+								  <li class="top_li mr-lg-0"><span class="fa fa-envelope-o"></span><a href="mailto:contact@enginomatic.in">Contact@enginomatic.in | Need help?| Contact Us </a>
+		  
+								  </li>
+								  
+							  </ul>
+						  </div>
+					  </div>
+				  </div>
+		  
+			  </div>
+		  
+		  </section>
+		  <!--//top-header-content-->
+		  
+		  <!--w3l-banner-slider-main-->
+		  <section class="w3l-banner-slider-main">
+		  
+			  <div class="bannerhny-content">
+				  <header class="top-headerhny">
+					  <!--/nav-->
+					  <nav class="navbar navbar-expand-lg navbar-light fill">
+						  <div class="container-fluid">
+							  <a class="navbar-brand" href="index.html">
+								  <img src="assets/images/team1.jpg" alt="" class="img-fluid team-image" style=" height:55px;"/> <label>Enginomatic.in</label></a>
+							  <!-- if logo is image enable this   
+								  <a class="navbar-brand" href="#index.html">
+									  <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+								  </a> -->
+							  <button class="navbar-toggler" type="button" data-toggle="collapse"
+								  data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+								  aria-expanded="false" aria-label="Toggle navigation">
+								  <span class="navbar-toggler-icon"></span>
+							  </button>
+		  
+							  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+								  <ul class="navbar-nav mx-lg-auto ml-auto">
+									<li><a href="index.html">Home</a></li>
+									<li class="active"><a href="about.html">About</a></li>
+									<li><a href="courses.html">Courses</a></li>
+									<li><a href="teacher.html">Teacher</a></li>
+									
+									<li><a href="contact.html">contact</a></li>
+									<li class="has-dropdown">
+										<a href="blog.html">Blog</a>
+										
+									</li>
+								  </ul>
+		  
+							  </div>
+							  <form action="#" method="post" class="d-flex searchhny-form">
+								  <input type="search" placeholder="Search Here..." required="required">
+								  <button type="submit"><span class="fa fa-search" aria-hidden="true"></span></button>
+							  </form>
+						  </div>
+					  </nav>
+					  <!--//nav-->
+				  </header>
+
+
+
+
+
+
+
+
+		
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Education &mdash; </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="freehtml5.co" />
+
+	
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<!-- Owl Carousel  -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Pricing -->
+	<link rel="stylesheet" href="css/pricing.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		
+	
+						
+						
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</nav>
+	
+	<aside id="fh5co-hero">
+		<div class="flexslider">
+			<ul class="slides">
+		   	<li style="background-image: url(images/student3.jpg);">
+		   		<div class="overlay-gradient"></div>
+		   		<div class="container">
+		   			<div class="row">
+			   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
+			   				<div class="slider-text-inner">
+			   					<h1>FACULTY</h1>
+									<h2>Immersive Learning experience delivered through live sessions, pre-recorded session and case studies <a href="http://Enginomatic.in/" target="_blank">Enginomatic.in</a></h2>
+									<p><a class="btn btn-primary btn-lg" href="#">Start Learning Now!</a></p>
+			   				</div>
+			   			</div>
+			   		</div>
+		   		</div>
+		   	</li>
+		   		   	
+		  	</ul>
+	  	</div>
+	</aside>
+
+		
+		
+
+	<div id="fh5co-course">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+					<h2>Our faculty</h2>
+					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-1.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Web Master</a></h3>
+							<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-2.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Business &amp; Accounting</a></h3>
+							<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-3.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Science &amp; Technology</a></h3>
+							<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-4.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Health &amp; Psychology</a></h3>
+							<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-5.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Science &amp; Technology</a></h3>
+							<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="course">
+						<a href="#" class="course-img" style="background-image: url(images/project-6.jpg);">
+						</a>
+						<div class="desc">
+							<h3><a href="#">Health &amp; Psychology</a></h3>
+							<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	<footer id="fh5co-footer" role="contentinfo" style="background-image: url(images/img_bg_4.jpg);">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-3 fh5co-widget">
+					<h3>About Enginomatic</h3>
+					<p>We work hard to prepare every student for their professional life</p>
+				</div>
+				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+					<h3>Learning</h3>
+					<ul class="fh5co-footer-links">
+						<li><a href="#">Course</a></li>
+						<li><a href="#">Blog</a></li>
+						<li><a href="#">Contact</a></li>
+						<li><a href="#">Terms</a></li>
+						<li><a href="#">Meetups</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+					<h3>Learn &amp; Grow</h3>
+					<ul class="fh5co-footer-links">
+						<li><a href="#">Blog</a></li>
+						<li><a href="#">Privacy</a></li>
+						<li><a href="#">Testimonials</a></li>
+						<li><a href="#">Handbook</a></li>
+						<li><a href="#">Held Desk</a></li>
+					</ul>
+				</div>
+
+				
+
+				
+			
+
+			<div class="row copyright">
+				<div class="col-md-12 text-center">
+					<p>
+						<small class="block">&copy; 2020 Enginomatic. All Rights Reserved.</small> 
+						<small class="block">Designed by <a href="http://fb.com/" target="_blank">p.mallikarjunyadav , dinesh nagre , md.suhair</a> <!-- jQuery EasingDemo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a> &amp; <a href="https://www.pexels.com/" target="_blank">Pexels</a></small> -->
+					</p>
+				</div>
+			</div>
+
+		</div>
+	</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- countTo -->
+	<script src="js/jquery.countTo.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Count Down -->
+	<script src="js/simplyCountdown.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+	<script>
+    var d = new Date(new Date().getTime() + 1000 * 120 * 120 * 2000);
+
+    // default example
+    simplyCountdown('.simply-countdown-one', {
+        year: d.getFullYear(),
+        month: d.getMonth() + 1,
+        day: d.getDate()
+    });
+
+    //jQuery example
+    $('#simply-countdown-losange').simplyCountdown({
+        year: d.getFullYear(),
+        month: d.getMonth() + 1,
+        day: d.getDate(),
+        enableUtc: false
+    });
+	</script>
+	</body>
+</html>
